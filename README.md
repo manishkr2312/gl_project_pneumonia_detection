@@ -1,5 +1,6 @@
 # gl_project_pneumonia_detection
 DOMAIN: Health Care
+
 • CONTEXT:
 Computer vision can be used in health care for identifying diseases. In Pneumonia detection we need to detect Inflammation
 of the lungs. In this challenge, you’re required to build an algorithm to detect a visual signal for pneumonia in medical
